@@ -2,7 +2,7 @@
 
 <h1 align="center">
 <br>
-    MAPA - Registration System
+    MAPA
 <hr>
 
 
@@ -10,7 +10,7 @@
 
 </h1>
 
-<p align="center">CRUD that registers and handles information</p>
+<p align="center">Registration system which handles students information</p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
